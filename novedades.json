@@ -1,18 +1,33 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "es": [
-    "🧊 Deimos: funda un tercer asentamiento en la luna helada.",
-    "⛽ Combustible: se vende caro y acelera las expediciones.",
-    "🚀 Capítulo 3: construye el astillero y la nave Ares II."
+    "🌍 Ahora también en portugués, francés e italiano.",
+    "🛠️ Los avisos ya no tapan el botón de cerrar.",
+    "🧊 Y si vienes de antes: Deimos, combustible y la nave Ares II."
   ],
   "en": [
-    "🧊 Deimos: found a third settlement on the icy moon.",
-    "⛽ Fuel: it sells well and speeds up expeditions.",
-    "🚀 Chapter 3: build the shipyard and the Ares II ship."
+    "🌍 Now also in Portuguese, French and Italian.",
+    "🛠️ Notifications no longer cover the close button.",
+    "🧊 And if you're coming from earlier: Deimos, fuel and the Ares II ship."
   ],
   "de": [
-    "🧊 Deimos: Gründe eine dritte Siedlung auf dem eisigen Mond.",
-    "⛽ Treibstoff: bringt gutes Geld und beschleunigt Expeditionen.",
-    "🚀 Kapitel 3: Baue die Werft und das Schiff Ares II."
+    "🌍 Jetzt auch auf Portugiesisch, Französisch und Italienisch.",
+    "🛠️ Meldungen verdecken nicht mehr die Schließen-Schaltfläche.",
+    "🧊 Und falls du von früher kommst: Deimos, Treibstoff und das Schiff Ares II."
+  ],
+  "pt": [
+    "🌍 Agora também em português, francês e italiano.",
+    "🛠️ Os avisos já não cobrem o botão de fechar.",
+    "🧊 E se você vem de antes: Deimos, combustível e a nave Ares II."
+  ],
+  "fr": [
+    "🌍 Désormais aussi en portugais, français et italien.",
+    "🛠️ Les notifications ne cachent plus le bouton de fermeture.",
+    "🧊 Et si vous venez d’avant : Deimos, le carburant et le vaisseau Ares II."
+  ],
+  "it": [
+    "🌍 Ora anche in portoghese, francese e italiano.",
+    "🛠️ Gli avvisi non coprono più il pulsante di chiusura.",
+    "🧊 E se arrivi da prima: Deimos, il carburante e la nave Ares II."
   ]
 }
