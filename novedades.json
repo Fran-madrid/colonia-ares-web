@@ -1,33 +1,43 @@
 {
-  "version": "1.4.1",
+  "version": "1.4.2",
   "es": [
-    "🌍 Ahora también en portugués, francés e italiano.",
-    "🛠️ Los avisos ya no tapan el botón de cerrar.",
-    "🧊 Y si vienes de antes: Deimos, combustible y la nave Ares II."
+    "📅 Retos del día: cada día 3 retos nuevos con premio, y una racha si los completas días seguidos (en el Diario).",
+    "🔔 Avisos en el móvil (si quieres): cuando vuelve una expedición o el rover y cuando llega el envío diario. Nunca de noche.",
+    "🌏 Ahora también en japonés y coreano."
   ],
   "en": [
-    "🌍 Now also in Portuguese, French and Italian.",
-    "🛠️ Notifications no longer cover the close button.",
-    "🧊 And if you're coming from earlier: Deimos, fuel and the Ares II ship."
+    "📅 Daily challenges: 3 new challenges with rewards every day, and a streak if you complete them on consecutive days (in the Log).",
+    "🔔 Phone notifications (if you want them): when an expedition or the rover returns and when the daily supply drop arrives. Never at night.",
+    "🌏 Now also in Japanese and Korean."
   ],
   "de": [
-    "🌍 Jetzt auch auf Portugiesisch, Französisch und Italienisch.",
-    "🛠️ Meldungen verdecken nicht mehr die Schließen-Schaltfläche.",
-    "🧊 Und falls du von früher kommst: Deimos, Treibstoff und das Schiff Ares II."
+    "📅 Tagesaufgaben: jeden Tag 3 neue Aufgaben mit Belohnung und eine Serie, wenn du sie an aufeinanderfolgenden Tagen erledigst (im Logbuch).",
+    "🔔 Benachrichtigungen (wenn du willst): wenn eine Expedition oder der Rover zurückkehrt und wenn die tägliche Lieferung ankommt. Nie nachts.",
+    "🌏 Jetzt auch auf Japanisch und Koreanisch."
   ],
   "pt": [
-    "🌍 Agora também em português, francês e italiano.",
-    "🛠️ Os avisos já não cobrem o botão de fechar.",
-    "🧊 E se você vem de antes: Deimos, combustível e a nave Ares II."
+    "📅 Desafios do dia: 3 desafios novos com prêmio todos os dias, e uma sequência se você os completar em dias seguidos (no Diário).",
+    "🔔 Notificações no celular (se quiser): quando uma expedição ou o rover volta e quando chega o envio diário. Nunca à noite.",
+    "🌏 Agora também em japonês e coreano."
   ],
   "fr": [
-    "🌍 Désormais aussi en portugais, français et italien.",
-    "🛠️ Les notifications ne cachent plus le bouton de fermeture.",
-    "🧊 Et si vous venez d’avant : Deimos, le carburant et le vaisseau Ares II."
+    "📅 Défis du jour : 3 nouveaux défis récompensés chaque jour, et une série si vous les terminez plusieurs jours d’affilée (dans le Journal).",
+    "🔔 Notifications (si vous le souhaitez) : quand une expédition ou le rover revient et quand le ravitaillement quotidien arrive. Jamais la nuit.",
+    "🌏 Désormais aussi en japonais et en coréen."
   ],
   "it": [
-    "🌍 Ora anche in portoghese, francese e italiano.",
-    "🛠️ Gli avvisi non coprono più il pulsante di chiusura.",
-    "🧊 E se arrivi da prima: Deimos, il carburante e la nave Ares II."
+    "📅 Sfide del giorno: ogni giorno 3 nuove sfide con premio, e una serie se le completi in giorni consecutivi (nel Diario).",
+    "🔔 Notifiche sul telefono (se vuoi): quando torna una spedizione o il rover e quando arriva l’invio giornaliero. Mai di notte.",
+    "🌏 Ora anche in giapponese e coreano."
+  ],
+  "ja": [
+    "📅 デイリーチャレンジ：毎日3つの新しいチャレンジと報酬。連続でクリアすると連続記録も（日誌にあります）。",
+    "🔔 スマホの通知（お好みで）：探検隊やローバーが戻ったときと、毎日の補給が届いたとき。夜には送りません。",
+    "🌏 日本語と韓国語に対応しました。"
+  ],
+  "ko": [
+    "📅 일일 도전: 매일 보상이 있는 새로운 도전 3개, 며칠 연속으로 완료하면 연속 기록도(일지에서 확인).",
+    "🔔 휴대폰 알림(원하면): 탐사대나 로버가 돌아올 때, 매일 보급품이 도착할 때. 밤에는 보내지 않아요.",
+    "🌏 이제 일본어와 한국어도 지원해요."
   ]
 }
